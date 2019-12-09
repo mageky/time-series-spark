@@ -1,0 +1,13 @@
+name: time-series-spark
+
+dependencies:
+  - python=3.7.5
+  - pytest=5.3.1
+  - pandas=0.25.3
+  - pyyaml=5.1.2
+  - pyarrow=0.13.0
+  - pyspark=2.4.4
+  - pip=19.3.1
+  - pip:
+      - pystan==2.19.1.1
+      - fbprophet==0.5

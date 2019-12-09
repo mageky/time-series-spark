@@ -1,0 +1,6 @@
+io:
+  input: "/path/to/model-input-data"
+  models: "/path/to/write-models"
+model:
+  floor: 0
+  cap_multiplier: 1.1

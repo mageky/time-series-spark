@@ -1,0 +1,6 @@
+io:
+  models: "/path/to/read-models"
+  forecasts: "/path/to/write-forecasts"
+forecast:
+  periods: 960       # 10 days
+  frequency: 15min
