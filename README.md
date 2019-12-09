@@ -1,7 +1,5 @@
 Time Series Forecasting with FB Prophet and Apache Spark
 ========================================================
-Mage Khim-Young
-December, 2019
 
 # Use Case
 If you have a time series you would like to forecast, [Facebook's Prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
